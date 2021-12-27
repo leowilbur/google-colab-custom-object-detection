@@ -1,1 +1,1 @@
-# google-colab-custom-object-detection
+https://drive.google.com/file/d/1AUnzPhu-feJozRYsjrAMWZwgTW_LZxeZ/view?usp=sharing
